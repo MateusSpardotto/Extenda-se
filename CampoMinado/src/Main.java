@@ -1,7 +1,7 @@
 
 public class Main {
 
-	public static void main(String[] args) {
+	public static void main(string[] args) {
 		SistemaCampoMinado sistema = new SistemaCampoMinado();
 		sistema.iniciarSistema();
 	}
